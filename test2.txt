@@ -1,0 +1,11 @@
+ Volume in drive C is Acer
+ Volume Serial Number is B06D-36AA
+
+ Directory of C:\Users\abdulla\Desktop\Test
+
+05/10/2021  12:12 AM    <DIR>          .
+05/10/2021  12:12 AM    <DIR>          ..
+05/10/2021  12:12 AM               348 test1.txt
+05/10/2021  12:12 AM                 0 test2.txt
+               2 File(s)            348 bytes
+               2 Dir(s)  183,448,174,592 bytes free
